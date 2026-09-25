@@ -1,0 +1,13 @@
+C:\Users\gamer\OneDrive\Desktop\Github\FruktMods\Frukt-PhxPauseMenu\bin\Debug\Phx.deps.json
+C:\Users\gamer\OneDrive\Desktop\Github\FruktMods\Frukt-PhxPauseMenu\bin\Debug\Phx.dll
+C:\Users\gamer\OneDrive\Desktop\Github\FruktMods\Frukt-PhxPauseMenu\bin\Debug\Phx.pdb
+C:\Users\gamer\OneDrive\Desktop\Github\FruktMods\Frukt-PhxPauseMenu\obj\Debug\Phx.csproj.AssemblyReference.cache
+C:\Users\gamer\OneDrive\Desktop\Github\FruktMods\Frukt-PhxPauseMenu\obj\Debug\Phx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\OneDrive\Desktop\Github\FruktMods\Frukt-PhxPauseMenu\obj\Debug\Phx.AssemblyInfoInputs.cache
+C:\Users\gamer\OneDrive\Desktop\Github\FruktMods\Frukt-PhxPauseMenu\obj\Debug\Phx.AssemblyInfo.cs
+C:\Users\gamer\OneDrive\Desktop\Github\FruktMods\Frukt-PhxPauseMenu\obj\Debug\Phx.csproj.CoreCompileInputs.cache
+C:\Users\gamer\OneDrive\Desktop\Github\FruktMods\Frukt-PhxPauseMenu\obj\Debug\Phx.sourcelink.json
+C:\Users\gamer\OneDrive\Desktop\Github\FruktMods\Frukt-PhxPauseMenu\obj\Debug\Phx.dll
+C:\Users\gamer\OneDrive\Desktop\Github\FruktMods\Frukt-PhxPauseMenu\obj\Debug\refint\Phx.dll
+C:\Users\gamer\OneDrive\Desktop\Github\FruktMods\Frukt-PhxPauseMenu\obj\Debug\Phx.pdb
+C:\Users\gamer\OneDrive\Desktop\Github\FruktMods\Frukt-PhxPauseMenu\obj\Debug\ref\Phx.dll

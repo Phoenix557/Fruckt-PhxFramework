@@ -15,6 +15,11 @@ namespace Phx
             LoggerInstance.Msg("Loaded. Open PHX PAUSE in the pause menu for mod settings.");
         }
 
+        public override void OnLateInitializeMelon()
+        {
+            Updates.Start();
+        }
+
         public override void OnSceneWasLoaded(int buildIndex, string sceneName)
         {
             Menu.Reset();
@@ -23,6 +28,7 @@ namespace Phx
         public override void OnUpdate()
         {
             Menu.Tick();
+            Updates.Tick();
         }
     }
 }
