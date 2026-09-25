@@ -1,6 +1,6 @@
 using MelonLoader;
 
-[assembly: MelonInfo(typeof(Phx.PhxPlugin), "Phx Pause", "1.0.0", "github.com/Phoenix557")]
+[assembly: MelonInfo(typeof(Phx.PhxPlugin), "Phx Pause", "1.0.1", "github.com/Phoenix557")]
 [assembly: MelonGame("tripledose", "FRUKT")]
 [assembly: MelonPriority(-100)]
 
