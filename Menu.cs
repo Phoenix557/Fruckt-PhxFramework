@@ -85,7 +85,7 @@ namespace Phx
                 return;
 
             FillMods();
-            WriteHeader(_listHeader, "PHX");
+            WriteHeader(_listHeader, "PHX PAUSE");
             if (Ride(_root, _list, false))
                 _page = Page.List;
         }
@@ -163,7 +163,7 @@ namespace Phx
                     index = mods.GetSiblingIndex() + 1;
                 clone.transform.SetSiblingIndex(index);
                 clone.gameObject.SetActive(true);
-                clone.SetWord("PHX");
+                clone.SetWord("PHX PAUSE");
                 if (clone.m_button == null)
                 {
                     UnityEngine.Object.Destroy(clone.gameObject);
@@ -174,7 +174,7 @@ namespace Phx
                 _buttonClick = (UnityAction)(Action)ShowList;
                 clone.m_button.onClick.AddListener(_buttonClick);
                 _button = clone;
-                MelonLogger.Msg("[Phx] Pause menu PHX button added.");
+                MelonLogger.Msg("[Phx] Pause menu PHX PAUSE button added.");
             }
             catch (Exception e)
             {
@@ -222,7 +222,7 @@ namespace Phx
                     return false;
                 }
 
-                WriteHeader(_listHeader, "PHX");
+                WriteHeader(_listHeader, "PHX PAUSE");
                 MelonLogger.Msg("[Phx] Settings pages built.");
                 return true;
             }
@@ -419,7 +419,7 @@ namespace Phx
             try
             {
                 if (header.m_trail != null)
-                    header.m_trail.text = "pause / phx";
+                    header.m_trail.text = "pause / phx pause";
                 if (header.m_current != null)
                     header.m_current.text = current;
             }

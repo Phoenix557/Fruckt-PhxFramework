@@ -10,7 +10,7 @@
     <CopyLocalLockFileAssemblies>false</CopyLocalLockFileAssemblies>
     <GenerateRuntimeConfigurationFiles>false</GenerateRuntimeConfigurationFiles>
     <GameDir>C:\Program Files (x86)\Steam\steamapps\common\FRUKT</GameDir>
-    <NetCoreTargetingPackRoot>$(MSBuildThisFileDirectory)..\FRUKTGroundCollider\.packs\</NetCoreTargetingPackRoot>
+    <NetCoreTargetingPackRoot>$(MSBuildThisFileDirectory)..\Walking\.packs\</NetCoreTargetingPackRoot>
   </PropertyGroup>
 
   <ItemGroup>

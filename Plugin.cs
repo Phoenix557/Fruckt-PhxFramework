@@ -1,6 +1,6 @@
 using MelonLoader;
 
-[assembly: MelonInfo(typeof(Phx.PhxPlugin), "Phx", "1.0.0", "github.com/Phoenix557")]
+[assembly: MelonInfo(typeof(Phx.PhxPlugin), "Phx Pause", "1.0.0", "github.com/Phoenix557")]
 [assembly: MelonGame("tripledose", "FRUKT")]
 [assembly: MelonPriority(-100)]
 
@@ -12,7 +12,7 @@ namespace Phx
         {
             Config.EnsureLoaded();
             HarmonyInstance.PatchAll(typeof(PhxBackPatch));
-            LoggerInstance.Msg("Loaded. Open PHX in the pause menu for mod settings.");
+            LoggerInstance.Msg("Loaded. Open PHX PAUSE in the pause menu for mod settings.");
         }
 
         public override void OnSceneWasLoaded(int buildIndex, string sceneName)
